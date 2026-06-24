@@ -89,14 +89,11 @@
 
 ###
 
-<table align="center" border="0">
-  <tr>
-    <td>
-	<img align="right" height="180" src="Orbit.png"/>
-	<img align="left" height="180" src="BaseOrtogonal.png"/>
-    </td>
-  </tr>
-</table>
+
+<img align="right" height="220" src="Orbit.png"/>
+<h1 data-importer="text" align="left"></h1>
+<img align="left" height="220" src="BaseOrtogonal.png"/>
+
 
 
 
