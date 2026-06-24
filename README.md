@@ -53,7 +53,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&section=header&reversal=true&text=Developing%20Robotics%20Proyects&fontSize=48&fontColor=575752&fontAlign=50&fontAlignY=50&stroke=-&descSize=36&descAlign=50&descAlignY=70&color=1F1E1E"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&section=header&reversal=true&text=Developing%20Robotics%20Proyects&fontSize=48&fontColor=575752&fontAlign=50&fontAlignY=50&stroke=-&descSize=36&descAlign=50&descAlignY=70&color=1F1E1E"  />
 </div>
 
 ###
@@ -102,12 +102,10 @@
 
 ###
 
-<p align="center">
- <div data-importer="stats" align="center">
-   <img src="https://vercel.app" alt="stats graph" /> <br>
-   <img src="https://vercel.app" alt="languages graph"  />
- </div>
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -115,7 +113,7 @@
 
 ###
 
-<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |<br>| **10 Jun** | 🐍 Scripting-Automation | Programación | Automatización de escaneos Nmap con reportes por correo. | 🟢 Terminado |<br>| **02 Jun** | 🦾 Brazo-Articulado-Arduino | Robótica | Pruebas de cinemática inversa en simulación. | 🔴 Pausado |</p>
+<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |</p>
 
 ###
 
@@ -123,7 +121,7 @@
 
 ###
 
-<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |<br>| **10 Jun** | 🐍 Scripting-Automation | Programación | Automatización de escaneos Nmap con reportes por correo. | 🟢 Terminado |<br>| **02 Jun** | 🦾 Brazo-Articulado-Arduino | Robótica | Pruebas de cinemática inversa en simulación. | 🔴 Pausado |</p>
+<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |</p>
 
 ###
 
@@ -133,6 +131,6 @@
 
 ###
 
-<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |<br>| **10 Jun** | 🐍 Scripting-Automation | Programación | Automatización de escaneos Nmap con reportes por correo. | 🟢 Terminado |<br>| **02 Jun** | 🦾 Brazo-Articulado-Arduino | Robótica | Pruebas de cinemática inversa en simulación. | 🔴 Pausado |</p>
+<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |</p>
 
 ###
