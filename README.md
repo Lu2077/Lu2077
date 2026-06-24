@@ -90,13 +90,12 @@
 ###
 
 
-<img align="left" height="220" src="BaseOrtogonal.png"/>
+<img align="center" height="220" src="BaseOrtogonal.png"/>
+
+
+<img align="center" height="200" src="Orbit.png"/>
 
 <h1 data-importer="text" align="left"></h1>
-
-<img align="right" height="200" src="Orbit.png"/>
-
-
 
 
 ###
