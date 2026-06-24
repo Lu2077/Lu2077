@@ -109,15 +109,9 @@
 
 ###
 
-<img data-importer="image" align="left" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
 
-###
-
-<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |</p>
-
-###
-
-<img data-importer="image" align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -127,7 +121,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
