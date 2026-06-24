@@ -1,17 +1,17 @@
 name: GitHub Profile Game Animate
 
 on:
-  schedule: # Se ejecuta automáticamente cada 24 horas
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Te permite ejecutarlo manualmente cuando quieras
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4 # Actualizado a v4 para soportar Node24
+      - uses: yoshi389111/github-profile-3d-contrib@0.8.0 # Versión moderna compatible
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
