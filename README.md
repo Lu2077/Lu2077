@@ -92,8 +92,16 @@
 <table align="center" border="0">
   <tr>
     <td>
-	<img align="left" height="180" src="Orbit.png"/>
-	<img align="right" height="180" src="BaseOrtogonal.png"/>
+	<img align="center" height="220" src="Orbit.png"/>
+	
+    </td>
+  </tr>
+</table>
+<table align="center" border="0">
+  <tr>
+    <td>
+	
+	<img align="center" height="220" src="BaseOrtogonal.png"/>
     </td>
   </tr>
 </table>
@@ -118,7 +126,7 @@
 <table align="center" border="0">
   <tr>
     <td>
-	<img align="left" height="190" src="gadgets.png"/>
+	<img align="left" height="150" src="gadgets.png"/>
 	<img align="right" height="190" src="kalidocker.png"/>
     </td>
   </tr>
