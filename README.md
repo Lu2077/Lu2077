@@ -104,9 +104,9 @@
 
 ## 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de Lu2077](https://github-readme-stats.vercel.app/api?username=Lu2077)
+![Estadísticas de Lu2077](https://github-readme-stats.vercel.app/api?username=Lu2077&theme=bear)
 
-![Lenguajes de Lu2077](https://github-readme-stats.vercel.app/api?username=Lu2077)
+![Lenguajes de Lu2077](https://github-readme-stats.vercel.app/api?username=Lu2077&theme=bear)
 
 
 ###
