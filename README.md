@@ -93,7 +93,7 @@
 <table align="center" border="0">
   <tr>
     <td>
-	<img align="center" height="300" src="Orbit2.gif"/>	
+	<img align="center" height="350" src="Orbit2.gif"/>	
     </td>
   </tr>
 </table>
@@ -122,7 +122,7 @@
 <table align="center" border="0">
   <tr>
     <td>
-	<img align="left" height="250" src="kalidocker.png"/>
+	<img align="left" height="260" src="kalidocker.png"/>
     </td>
   </tr>
 </table>
