@@ -1,1 +1,1 @@
-# Hola, Soy Lu2077
+# Ingeniero en Robótica y Estudiante del DIE-USACH
