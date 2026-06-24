@@ -29,7 +29,9 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/lucas-d%C3%ADaz-bulnes-175a37209/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="70" height="40" alt="paypal logo"  />
