@@ -122,7 +122,7 @@
 <table align="center" border="0">
   <tr>
     <td>
-	<img align="center" height="360" src="kalidocker.png"/>
+	<img align="center" height="460" src="kalidocker.png"/>
     </td>
   </tr>
 </table>
