@@ -68,12 +68,12 @@
 <table align="center" border="0">
   <tr>
     <td>
-	<img align="left" height="180" src="imagenros2.png"/>
+	<img align="left" height="180" src="Matlab.png"/>
 	<img align="right" height="180" src="ros2.gif"/>
     </td>
   </tr>
 </table>
-###
+
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&section=header&reversal=false&text=mathematical%20Software&fontSize=70&fontColor=575752&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1F1E1E"  />
@@ -89,7 +89,15 @@
 
 ###
 
-<img align="center" height="200" src="Orbit2.gif"/>
+<table align="center" border="0">
+  <tr>
+    <td>
+	<img align="left" height="180" src="Orbit.png"/>
+	<img align="right" height="180" src="BaseOrtogonal.png"/>
+    </td>
+  </tr>
+</table>
+
 
 ###
 
@@ -107,7 +115,14 @@
 
 ###
 
-<img align="center" height="200" src="kalidocker.png"/>
+<table align="center" border="0">
+  <tr>
+    <td>
+	<img align="left" height="190" src="gadgets.png"/>
+	<img align="right" height="190" src="kalidocker.png"/>
+    </td>
+  </tr>
+</table>
 
 ###
 
