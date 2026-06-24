@@ -103,9 +103,10 @@
 ###
 
 <p align="center">
-  <img src="https://vercel.app" height="150" alt="Grafica de Estadisticas" />
-  &nbsp;&nbsp;
-  <img src="https://vercel.app" height="150" alt="Grafica de Lenguajes" />
+ <div data-importer="stats" align="center">
+   <img src="https://vercel.app" alt="stats graph" /> <br>
+   <img src="https://vercel.app" alt="languages graph"  />
+ </div>
 </p>
 
 ###
