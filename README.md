@@ -119,15 +119,8 @@
 
 ###
 
-<table align="center" border="0">
-  <tr>
-    <td>
-	<img align="center" height="460" src="kalidocker.png"/>
-    </td>
-  </tr>
-</table>
 
-###
+<h1 data-importer="text" align="left"></h1>
 
 
 <table align="center" border="0">
@@ -140,24 +133,44 @@
     </td>
   </tr>
 </table>
-###
+
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
-<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |</p>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="rosapis.png" height="180"/>
+    </td>
+    <td>
+      <h3>Autonomous navigation</h3>
+      <p>ongoing: Implementing Ros2/gz-Ignition Fortress bridges to communicate Slam-Toolbox with Nav2</p>
+    </td>
+  </tr>
+</table>
 
 ###
 
 <br clear="both">
+<h1 data-importer="text" align="left"></h1>
 
-<img data-importer="image" align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<p data-importer="text" align="left">Time Line; ROS2 | Calendar;<br>## 🗓️ Bitácora de Avances y Proyectos (2026)<br><br>> Lista cronológica de mis avances, desafíos resueltos y despliegues en Robótica y Ciberseguridad.<br><br>| Fecha | Proyecto | Especialidad | Logro / Avance Realizado | Estado |<br>| :--- | :--- | :---: | :--- | :---: |<br>| **24 Jun** | 🤖 Drone-Autónomo-ROS2 | Robótica | Sincronización y calibración de sensores IMU completada. | 🟢 Terminado |<br>| **18 Jun** | 🛡️ Laboratorio-Pentesting | Ciberseguridad | Configuración de firewall perimetral y reglas de filtrado. | 🟡 En progreso |</p>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="kali.png" height="180"/>
+    </td>
+    <td>
+      <h3>Imsi Catcher-Advanced residential security system</h3>
+      <p>implement a simple IMSI catcher to map unique number of the operator. Intrusion detection on a security perimeter.</p>
+    </td>
+  </tr>
+</table>
 
 ###
