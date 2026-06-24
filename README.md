@@ -92,7 +92,7 @@
 <table align="center" border="0">
   <tr>
     <td>
-	<img align="right" height="200" src="Orbit.png"/>
+	<img align="right" height="180" src="Orbit.png"/>
 	<img align="left" height="180" src="BaseOrtogonal.png"/>
     </td>
   </tr>
