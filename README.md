@@ -65,10 +65,14 @@
 <h3 data-importer="text" align="center">I work with ROS2, Nav2, Ignition Gazebo, Matlab and Simulink for industrial robotics and autonomous navigation systems, AGVs, UAVs and general purpose robots simulation and implementations</h3>
 
 ###
-
-<img align="left" height="180" src="imagenros2.png"/>
-<img align="right" height="180" src="ros2.gif"/>
-
+<table align="center" border="0">
+  <tr>
+    <td>
+	<img align="left" height="180" src="imagenros2.png"/>
+	<img align="right" height="180" src="ros2.gif"/>
+    </td>
+  </tr>
+</table>
 ###
 
 <div data-importer="border">
