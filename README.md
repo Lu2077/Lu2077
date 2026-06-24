@@ -90,10 +90,15 @@
 ###
 
 
-<img align="center" height="220" src="BaseOrtogonal.png"/>
+<table align="center" border="0">
+  <tr>
+    <td>
+	<img align="center" height="150" src="Orbit.gif"/>	
+    </td>
+  </tr>
+</table>
 
 
-<img align="center" height="200" src="Orbit.png"/>
 
 <h1 data-importer="text" align="left"></h1>
 
