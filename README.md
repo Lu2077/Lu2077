@@ -66,7 +66,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="320" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="200" src="imagenros2.png"/>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="320" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="Orbit2.gif"/>
 
 ###
 
