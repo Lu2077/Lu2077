@@ -93,7 +93,7 @@
 <table align="center" border="0">
   <tr>
     <td>
-	<img align="center" height="350" src="Orbit2.gif"/>	
+	<img align="center" height="450" src="Orbit2.gif"/>	
     </td>
   </tr>
 </table>
