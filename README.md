@@ -66,7 +66,8 @@
 
 ###
 
-<img align="left" height="200" src="imagenros2.png"/>
+<img align="left" height="180" src="imagenros2.png"/>
+<img align="right" height="180" src="ros2.gif"/>
 
 ###
 
@@ -84,7 +85,7 @@
 
 ###
 
-<img align="right" height="200" src="Orbit2.gif"/>
+<img align="center" height="200" src="Orbit2.gif"/>
 
 ###
 
@@ -99,6 +100,10 @@
 ###
 
 <h1 data-importer="text" align="left"></h1>
+
+###
+
+<img align="center" height="200" src="kalidocker.png"/>
 
 ###
 
