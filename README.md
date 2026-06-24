@@ -109,7 +109,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Lu2077&theme=bear&hide_title=true" height="150"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lu2077&show_icons=true&theme=bear&layout=compact" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lu2077&show_icons=true&theme=bear&layout=compact&hide_title" height="150" alt="Lenguajes"/>
     </td>
   </tr>
 </table>
