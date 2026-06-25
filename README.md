@@ -85,7 +85,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">user of C ++, Matlab, GNU Octave and Geogebra with Technical and theorical aim.<br>Linear Algebra, Calculus and general abstract concepts visualization related to mathematics and fisics.<br>Since recreative purposes as profesional growth</h3>
+<h3 data-importer="text" align="center">User of C ++, Matlab, GNU Octave and Python with Technical and theorical aim.<br>Linear Algebra, Calculus and general abstract concepts visualization related to mathematics and fisics.<br>Since recreative purposes as profesional growth</h3>
 
 ###
 
