@@ -1,29 +1,42 @@
-name: GitHub Profile Game Animate
+name: GitHub Profile Stats Generator
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Corre automáticamente cada noche
+  workflow_dispatch: # Permite activarlo manualmente desde la pestaña Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-      
-      # Genera los gráficos 3D
-      - uses: yoshi389111/github-profile-3d-contrib@0.8.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          
-      # PASO CLAVE: Confirmar y subir los archivos generados automáticamente a tu repositorio
-      - name: Commit & Push cambios
+
+      # Genera la tarjeta de estadísticas generales
+      - uses: marcalexiei/github-readme-stats-action@v0.1.2
+        with:
+          username: Lu2077
+          output: stats.svg
+          include_all_commits: true
+          count_private: true
+          show_icons: true
+          theme: dracula
+
+      # Genera la tarjeta de lenguajes más utilizados
+      - uses: marcalexiei/github-readme-stats-action@v0.1.2
+        with:
+          username: Lu2077
+          output: languages.svg
+          layout: compact
+          langs_count: 7
+          theme: dracula
+
+      # Guarda y sube las imágenes a tu repositorio principal
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Generated 3D Profile SVGs" || exit 0
+          git add stats.svg languages.svg
+          git commit -m "Update profile statistics SVGs" || exit 0
           git push origin main
+
 
