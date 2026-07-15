@@ -10,8 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4 # Actualizado a v4 para soportar Node24
-      - uses: yoshi389111/github-profile-3d-contrib@0.8.0 # Versión moderna compatible
+      - uses: actions/checkout@v4
+      
+      # Genera los gráficos 3D
+      - uses: yoshi389111/github-profile-3d-contrib@0.8.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
+      # PASO CLAVE: Confirmar y subir los archivos generados automáticamente a tu repositorio
+      - name: Commit & Push cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Generated 3D Profile SVGs" || exit 0
+          git push origin main
+
