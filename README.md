@@ -1,27 +1,17 @@
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge" height="40" alt="ros logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/octave/0790C0" height="40" alt="octave logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge" height="40" alt="ros logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
 </div>
 
 ###
@@ -29,13 +19,9 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/lucas-d%C3%ADaz-bulnes-175a37209/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
-  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="40" alt="youtube logo"  />
-  <a href="https://lu2077.github.io/Lu2077/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
-  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="70" height="40" alt="paypal logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="70" height="40" alt="microsoft-outlook logo"  />
 </div>
@@ -48,130 +34,17 @@
 
 ###
 
-<h1 data-importer="text" align="center">Robotics Engineer | E.E. & Ms.Sc of Engineering student | Looking for collaboration and challenges</h1>
+<h1 data-importer="text" align="left"></h1>
 
 ###
 
-<h2 data-importer="text" align="center">Acquiring technical and theoretical skills to develop technological solutions and innovative projects</h2>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&section=header&reversal=true&text=Developing%20Robotics%20Proyects&fontSize=48&fontColor=575752&fontAlign=50&fontAlignY=50&stroke=-&descSize=36&descAlign=50&descAlignY=70&color=1F1E1E"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lu2077&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-
-<h1 data-importer="text" align="center">Hands on ROS2 | Ignition | Matlab</h1>
-
-###
-
-<h3 data-importer="text" align="center">I work with ROS2, Nav2, Ignition Gazebo, Matlab and Simulink for industrial robotics and autonomous navigation systems, AGVs, UAVs and general purpose robots simulation and implementations</h3>
-
-###
-<table align="center" border="0">
-  <tr>
-    <td>
-	<img align="left" height="180" src="Matlab.png"/>
-	<img align="right" height="180" src="ros2.gif"/>
-    </td>
-  </tr>
-</table>
-
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&section=header&reversal=false&text=mathematical%20Software&fontSize=70&fontColor=575752&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1F1E1E"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="center">User of C ++, Matlab, GNU Octave and Python with Technical and theorical aim.<br>Linear Algebra, Calculus and general abstract concepts visualization related to mathematics and fisics.<br>Since recreative purposes as profesional growth</h3>
-
-###
-
-<h1 data-importer="text" align="left"></h1>
-
-###
-
-
-<table align="center" border="0">
-  <tr>
-    <td>
-	<img align="center" height="450" src="Orbit2.gif"/>	
-    </td>
-  </tr>
-</table>
-
-
-
-<h1 data-importer="text" align="left"></h1>
-
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&section=header&reversal=false&text=CyberSecurity%20and%20telecom%20enthusiast&fontSize=45&fontColor=575752&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1F1E1E"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="center">Exploring community projects, implementing simple technologies such as operating systems, libraries and related tools, developing specific hardware that ensures telecommunications security, digital autonomy, and ownership of personal data as a philosophy.</h3>
-
-###
-
-<h1 data-importer="text" align="left"></h1>
-
-###
-
-
-<h1 data-importer="text" align="left"></h1>
-
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lu2077&theme=bear&hide_title=true" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lu2077&show_icons=true&theme=bear&layout=compact&hide_title=true&cache_seconds=1800" height="150" alt="Lenguajes"/>
-    </td>
-  </tr>
-</table>
-
-
-<br clear="both">
-
-
-
-###
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="rosapis.png" height="180"/>
-    </td>
-    <td>
-      <h3>Autonomous navigation</h3>
-      <p>ongoing: Implementing Ros2/gz-Ignition Fortress bridges to communicate Slam-Toolbox with Nav2</p>
-    </td>
-  </tr>
-</table>
-
-###
-
-<br clear="both">
-<h1 data-importer="text" align="left"></h1>
-
-
-###
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="kali.png" height="180"/>
-    </td>
-    <td>
-      <h3>Imsi Catcher-Advanced residential security system</h3>
       <p>implement a simple IMSI catcher to map unique number of the operator. Intrusion detection on a security perimeter.</p>
     </td>
   </tr>
