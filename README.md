@@ -41,7 +41,8 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://lecoq.io" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 
