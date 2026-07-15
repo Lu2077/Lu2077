@@ -1,4 +1,4 @@
-name: GitHub Profile Stats Generator
+name: Generator Stats Profile 2D
 
 on:
   schedule:
