@@ -18,9 +18,12 @@
 
 <br clear="both">
 
-<div data-importer="stats" align="center">
-  <img src="https://vercel.app" height="200" alt="stats graph" />
-  <img src="https://vercel.app" height="200" alt="languages graph" />
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="70" height="40" alt="paypal logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="70" height="40" alt="microsoft-outlook logo"  />
 </div>
 
 ###
@@ -35,9 +38,11 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://vercel.app" height="200" alt="stats graph" />
+  <img src="https://vercel.app" height="200" alt="languages graph" />
 </div>
 
 ###
