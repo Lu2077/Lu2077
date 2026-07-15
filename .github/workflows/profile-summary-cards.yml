@@ -2,8 +2,8 @@ name: GitHub Profile Stats Generator
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Corre automáticamente cada noche
-  workflow_dispatch: # Permite activarlo manualmente desde la pestaña Actions
+    - cron: "0 0 * * *" # Se ejecuta automáticamente todas las noches
+  workflow_dispatch: # Activa el botón para ejecutarlo manualmente cuando quieras
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Genera la tarjeta de estadísticas generales
+      # 1. Generar gráfico plano de Estadísticas Generales con tema Dracula
       - uses: marcalexiei/github-readme-stats-action@v0.1.2
         with:
           username: Lu2077
@@ -21,7 +21,7 @@ jobs:
           show_icons: true
           theme: dracula
 
-      # Genera la tarjeta de lenguajes más utilizados
+      # 2. Generar gráfico plano de Lenguajes más usados en formato compacto
       - uses: marcalexiei/github-readme-stats-action@v0.1.2
         with:
           username: Lu2077
@@ -30,13 +30,15 @@ jobs:
           langs_count: 7
           theme: dracula
 
-      # Guarda y sube las imágenes a tu repositorio principal
-      - name: Commit & Push
+      # 3. Guardar físicamente las imágenes generadas dentro de tu repositorio (Evita el 404)
+      - name: Commit & Push cambios
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add stats.svg languages.svg
-          git commit -m "Update profile statistics SVGs" || exit 0
+          git commit -m "Update local profile statistics SVGs" || exit 0
           git push origin main
+
+
 
 

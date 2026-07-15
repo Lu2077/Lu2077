@@ -28,13 +28,11 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Lu2077.Lu2077&left_color=brown&right_color=darkslategray"  />
+<div data-importer="stats" align="center">
+  <h2>📊 Stats</h2>
+  <img src="stats.svg" height="200" alt="stats graph" />
+  <img src="languages.svg" height="200" alt="languages graph" />
 </div>
-
-###
-
-<h1 data-importer="text" align="left"></h1>
 
 ###
 
