@@ -41,8 +41,8 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://vercel.app" height="200" alt="stats graph" />
-  <img src="https://vercel.app" height="200" alt="languages graph" />
+  <img src="https://lecoq.io" alt="GitHub Metrics" width="100%" />
 </div>
+
 
 ###
