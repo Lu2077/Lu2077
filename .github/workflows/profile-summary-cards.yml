@@ -11,26 +11,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 1. Generar gráfico plano de Estadísticas Generales con tema Dracula
-      - uses: marcalexiei/github-readme-stats-action@v0.1.2
+      # 1. Generar la tarjeta de Estadísticas Generales en formato SVG
+      - uses: marcalexiei/github-readme-stats-action@v2.0.1
         with:
-          username: Lu2077
-          output: stats.svg
-          include_all_commits: true
-          count_private: true
-          show_icons: true
-          theme: dracula
+          card: stats
+          options: 'username=Lu2077&show_icons=true&include_all_commits=true&count_private=true&theme=dracula'
+          path: stats.svg
 
-      # 2. Generar gráfico plano de Lenguajes más usados en formato compacto
-      - uses: marcalexiei/github-readme-stats-action@v0.1.2
+      # 2. Generar la tarjeta de Lenguajes más usados en formato SVG
+      - uses: marcalexiei/github-readme-stats-action@v2.0.1
         with:
-          username: Lu2077
-          output: languages.svg
-          layout: compact
-          langs_count: 7
-          theme: dracula
+          card: top-langs
+          options: 'username=Lu2077&layout=compact&langs_count=7&theme=dracula'
+          path: languages.svg
 
-      # 3. Guardar físicamente las imágenes generadas dentro de tu repositorio (Evita el 404)
+      # 3. Guardar físicamente las imágenes generadas dentro de tu repositorio principal
       - name: Commit & Push cambios
         run: |
           git config user.name "github-actions[bot]"
