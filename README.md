@@ -40,10 +40,4 @@
 
 <br clear="both">
 
-<div data-importer="stats" align="center">
-  <img src="stats.svg" height="200" alt="stats graph" />
-  <img src="languages.svg" height="200" alt="languages graph" />
-</div>
 
-
-###
