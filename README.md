@@ -28,14 +28,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <h2>📊 stats</h2>
-  <img src="./stats.svg" height="200" alt="stats graph" />
-  <img src="./languages.svg" height="200" alt="languages graph" />
-</div>
-
-###
-
 <br clear="both">
 
 
