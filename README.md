@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="Ascci_imagesprocessed.png" alt="Imagen Procesada en su tamaño real">
+  <img src="center_Ascii_images.png" alt="Imagen Procesada en su tamaño real">
 </p>
 
 <div data-importer="techs" align="center">
