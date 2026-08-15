@@ -1,3 +1,25 @@
+###
+
+
+<br clear="both">
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/lucas-d%C3%ADaz-bulnes-175a37209/?skipRedirect=true" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo" />
+  </a>
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="70" height="40" alt="paypal logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="70" height="40" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<br clear="both">
+
 <p align="center">
   <img src="center_Ascci_1.png" alt="Imagen Procesada en su tamaño real">
 </p>
@@ -18,24 +40,6 @@
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
 </div>
 
-###
 
-
-<br clear="both">
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/lucas-d%C3%ADaz-bulnes-175a37209/?skipRedirect=true" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo" />
-  </a>
-  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="70" height="40" alt="paypal logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="70" height="40" alt="microsoft-outlook logo"  />
-</div>
-
-###
-
-<br clear="both">
 
 
