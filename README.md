@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <img src="center_Ascci_1.png" alt="Imagen Procesada en su tamaño real">
 </p>
 
