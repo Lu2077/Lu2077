@@ -1,4 +1,6 @@
-<img src="Ascci_images_3.png" width="400" alt="Imagen Procesada">
+<p align="center">
+  <img src="Ascci_imagesprocessed.png" width="400" alt="Imagen Procesada">
+</p>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
