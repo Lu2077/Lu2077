@@ -18,12 +18,6 @@
 
 <br clear="both">
 
-<br clear="both">
-
-<p align="center">
-  <img src="center_Ascci_1.png" alt="Imagen Procesada en su tamaño real">
-</p>
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
@@ -39,6 +33,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
 </div>
+
+<p align="center">
+  <img src="center_Ascci_1.png" alt="Imagen Procesada en su tamaño real">
+</p>
+
+
 
 
 
