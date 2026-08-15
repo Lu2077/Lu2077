@@ -14,18 +14,7 @@
          height="40" 
          alt="Escríbeme un mensaje" />
   </a>
-
-  <a href="https://discord.com/925065156239700008" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" 
-         width="70" 
-         height="40" 
-         alt="discord logo" />
-  </a>
-
-  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="70" height="40" alt="paypal logo"  />
-  
-  
+      
 </div>
 
 ###
