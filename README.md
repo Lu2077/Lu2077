@@ -10,7 +10,7 @@
   
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="40" alt="youtube logo"  />
 
-  <a href="https://[formsubmit.co/el/diaz.lu18@gmail.com](https://formsubmit.co/el/surosu)" target="_blank">
+  <a href="https://formsubmit.co/el/surosu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
          width="70" 
          height="40" 
