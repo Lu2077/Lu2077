@@ -41,7 +41,14 @@
 
 ###
 
-<p align="center"> # 🛰️ [Astro - Sat Tracking for Astronomers](https://github.com/Lu2077/Astro) #</p>
+<p align="center">
+  <a href="https://github.com/Lu2077/Astro" style="text-decoration: none;">
+    <strong><span style="font-size: 2em;">🛰️ Astro - Sat Tracking for Astronomers</span></strong>
+  </a>
+</p>
+
+###
+
 <p align="center"> <img src="Antenas-ALMA-105.jpg" alt="astro-proj" <p/>
 
 ###
