@@ -54,8 +54,9 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/kubeflow/sdk" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;"> Kube-Flow- Become a Contributor</span></strong>
+  <a href="https://github.com" style="text-decoration: none;">
+    <img src="./kubeflow-icon.svg" height="40" alt="kubeflow logo" style="vertical-align: middle; margin-right: 10px;" />
+    <strong><span style="font-size: 2em; vertical-align: middle;">Kube-Flow - Become a Contributor</span></strong>
   </a>
 </p>
 
