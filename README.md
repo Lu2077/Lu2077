@@ -41,6 +41,12 @@
 
 ###
 
+<details open style="list-style: none; pointer-events: none;">
+  <summary style="list-style: none; pointer-events: none; cursor: default; user-select: auto;">
+    <h1 style="display: inline; font-weight: normal; border: none; pointer-events: auto;">My Projects</h1>
+  </summary>            
+</details>
+
 <p align="center">
   <a href="https://github.com/Lu2077/Astro" style="text-decoration: none;">
     <strong><span style="font-size: 2em;">🛰️ Astro - Sat Tracking for Astronomers</span></strong>
@@ -56,9 +62,11 @@
 
 <div>
 
-  <h3>
-    <strong><span style="font-size: 2em;">Projects i'm interested in</span></strong>
-  </h3>  
+  <details open style="list-style: none; pointer-events: none;">
+    <summary style="list-style: none; pointer-events: none; cursor: default; user-select: auto;">
+      <h1 style="display: inline; font-weight: normal; border: none; pointer-events: auto;">Core Techs & Repositories</h1>
+    </summary>
+  </details>
   
   <!-- SECCIÓN KUBEFLOW -->
   <h3>
@@ -127,6 +135,36 @@
       <strong><span style="font-size: 2em;">NixOs</span></strong>
     </a>
   </h3>
+
+  <!-- Gazebo -->
+  <h3>
+    <a href="http://github.com/gazebosim" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">gazebosim</span></strong>
+    </a>
+  </h3>
+
+  <!-- ROS -->
+  <h3>
+    <a href="https://github.com/ros2" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">ROS2</span></strong>
+    </a>
+  </h3>
+
+  <!-- google-deepmind -->
+  <h3>
+    <a href="https://github.com/google-deepmind" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">GoogleDeepmind</span></strong>
+    </a>
+  </h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <a href="https://github.com/google-deepmind/mujoco">G-DM-Mujoco</a>
+    </li>
+    <li>
+      <a href="https://github.com/pranavchokda/mujoco-garage">Mujoco-garage</a>
+    </li>
+  </ul>
+  
 </div>
 
 ###
