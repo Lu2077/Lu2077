@@ -79,8 +79,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/armbian" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Armbian</span></strong>
+  <a href="https://github.com/armbian/configng" style="text-decoration: none;">
+    <strong><span style="font-size: 2em;">Armbian-configng</span></strong>
   </a>
 </p>
 <p align="center">
