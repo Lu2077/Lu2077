@@ -53,56 +53,81 @@
 
 ###
 
-<p align="center">
-  <a href="https://github.com/kubeflow" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Kubeflow</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kubeflow/sdk" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Kubeflow-sdk</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/HighCodeh" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">HighCodeh</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/HighCodeh/TentacleOS" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">HighBow-Firmware</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/armbian" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Armbian</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/armbian/configng" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Armbian-configng</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/armbian/build" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Armbian-build</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/armbian/linux-rockchip" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Armbian-linux-rockchip</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/alpinelinux" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Alpinelinux</span></strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/riscv" style="text-decoration: none;">
-    <strong><span style="font-size: 2em;">Riscv</span></strong>
-  </a>
-</p>
+
+<div>
+
+  <h3>
+    <strong><span style="font-size: 2em;">Projects i'm interested in</span></strong>
+  </h3>  
+  
+  <!-- SECCIÓN KUBEFLOW -->
+  <h3>
+    <a href="https://github.com/kubeflow" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">Kubeflow</span></strong>
+    </a>
+  </h3>  
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <a href="https://github.com/kubeflow/sdk">Kubeflow-sdk</a>
+    </li>
+  </ul> <!-- Se cerró la lista correctamente -->
+    
+  <!-- SECCIÓN HIGHCODEH -->
+  <h3>
+    <a href="https://github.com/HighCodeh" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">HighCodeh</span></strong>
+    </a>
+  </h3>  
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <a href="https://github.com/HighCodeh/TentacleOS">HighBoy-Firmware</a>
+    </li>
+  </ul> <!-- Se cerró la lista correctamente -->
+    
+  <!-- SECCIÓN ARMBIAN -->
+  <h3>
+    <a href="https://github.com/armbian" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">Armbian</span></strong>
+    </a>
+  </h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <a href="https://github.com/armbian/configng">Armbian-configng</a>
+    </li>
+    <li>
+      <a href="https://github.com/armbian/build">Armbian-build</a>
+    </li>
+    <li>
+      <a href="https://github.com/armbian/linux-rockchip">Armbian-linux-rockchip</a>
+    </li>
+  </ul>
+  
+  <!-- SECCIÓN ALPINE LINUX -->
+  <h3>
+    <a href="https://github.com/alpinelinux" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">Alpine Linux</span></strong>
+    </a>
+  </h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <a href="https://github.com/alpine-ros">Alpine-ROS</a>
+    </li>
+  </ul>
+
+  <!-- SECCIÓN RISC-V -->
+  <h3>
+    <a href="https://github.com/riscv" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">RISC-V</span></strong>
+    </a>
+  </h3>
+
+  <!-- NixOs -->
+  <h3>
+    <a href="https://github.com/NixOS" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">NixOs</span></strong>
+    </a>
+  </h3>
+</div>
 
 ###
 
