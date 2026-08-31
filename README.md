@@ -139,7 +139,7 @@
   <!-- Gazebo -->
   <h3>
     <a href="http://github.com/gazebosim" style="text-decoration: none;">
-      <strong><span style="font-size: 2em;">gazebosim</span></strong>
+      <strong><span style="font-size: 2em;">Gazebosim</span></strong>
     </a>
   </h3>
 
