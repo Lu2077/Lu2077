@@ -73,6 +73,36 @@
     <strong><span style="font-size: 2em;">HighBow-Firmware</span></strong>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/armbian" style="text-decoration: none;">
+    <strong><span style="font-size: 2em;">Armbian</span></strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/armbian" style="text-decoration: none;">
+    <strong><span style="font-size: 2em;">Armbian</span></strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/armbian/build" style="text-decoration: none;">
+    <strong><span style="font-size: 2em;">Armbian-build</span></strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/armbian/linux-rockchip" style="text-decoration: none;">
+    <strong><span style="font-size: 2em;">Armbian-linux-rockchip</span></strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/alpinelinux" style="text-decoration: none;">
+    <strong><span style="font-size: 2em;">Alpinelinux</span></strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/riscv" style="text-decoration: none;">
+    <strong><span style="font-size: 2em;">Riscv</span></strong>
+  </a>
+</p>
 
 ###
 
