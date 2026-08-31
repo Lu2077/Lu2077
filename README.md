@@ -164,6 +164,14 @@
       <a href="https://github.com/pranavchokda/mujoco-garage">Mujoco-garage</a>
     </li>
   </ul>
+  <!-- google-deepmind -->
+  <h3>
+    <a href="https://github.com/epam" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">Epam</span></strong>
+    </a>
+  </h3>
+  
+
   
 </div>
 
