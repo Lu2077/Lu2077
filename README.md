@@ -172,16 +172,61 @@
       <a href="https://github.com/pranavchokda/mujoco-garage">Mujoco-garage</a>
     </li>
   </ul>
-  <!-- google-deepmind -->
+  <!-- Epam-->
   <h3>
     <a href="https://github.com/epam" style="text-decoration: none;">
       <strong><span style="font-size: 2em;">Epam</span></strong>
     </a>
   </h3>
-  
+
+  <!-- OpenApi -->
+  <h3>
+    <a href="https://github.com/OAI/OpenAPI-Specification" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">OpenAPI</span></strong>
+    </a>
+  </h3>
+
+  <!-- ClodEvents -->
+  <h3>
+    <a href="https://github.com/cloudevents" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">CloudEvents</span></strong>
+    </a>
+  </h3>
+
 
   
 </div>
+
+###
+
+<div>
+
+  <details open style="list-style: none; pointer-events: none;">
+    <summary style="list-style: none; pointer-events: none; cursor: default; user-select: auto;">
+      <h1 style="display: inline; font-weight: normal; border: none; pointer-events: auto;">Profiles that i like</h1>
+    </summary>
+  </details>
+
+  <h3>
+    <a href="https://github.com/IDouble" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">Crypto & Blockchain</span></strong>
+    </a>
+  </h3>
+
+  <h3>
+    <a href="https://github.com/nomadstar" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">Cs - and opensource</span></strong>
+    </a>
+  </h3>
+
+  <h3>
+    <a href="https://github.com/standardgalactic" style="text-decoration: none;">
+      <strong><span style="font-size: 2em;">Inspirational-StandarGalactic World</span></strong>
+    </a>
+  </h3>
+
+
+  </div>
 
 ###
 
