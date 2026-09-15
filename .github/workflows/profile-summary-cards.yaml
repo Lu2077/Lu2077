@@ -12,26 +12,27 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # 1. Bloque para las Estadísticas Generales
+      # 1. Generar la tarjeta de Estadísticas Generales en PNG
       - name: Generar Estadísticas de Perfil
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: stats.svg
+          filename: stats.png                # Cambiado a .png
+          config_output: png                 # Fuerza el formato PNG
           base: header, activity, community, repositories, metadata
           config_timezone: America/Santiago
-          config_theme: dracula              # CORREGIDO: Se cambió 'theme' por 'config_theme'
+          config_theme: dracula
 
-      # 2. Bloque exclusivo para los Lenguajes Más Usados
+      # 2. Generar la tarjeta de Lenguajes Más Usados en PNG
       - name: Generar Lenguajes más Usados
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: languages.svg
-          base: header                       # CAMBIO: Activamos el encabezado para que no salga en blanco
+          filename: languages.png            # Cambiado a .png
+          config_output: png                 # Fuerza el formato PNG
+          base: header                       # Activamos cabecera para asegurar estabilidad
           plugin_languages: yes
-          plugin_languages_sections: most-used, details # CAMBIO: Muestra las barras y la lista detallada
-          plugin_languages_details: bytes, percentage   # Muestra el tamaño y porcentaje de tu código
+          plugin_languages_sections: most-used
           plugin_languages_ignored: html, css
           plugin_languages_limit: 7
           config_timezone: America/Santiago
