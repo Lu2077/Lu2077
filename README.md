@@ -228,15 +228,6 @@
 
   </div>
 
-###
-
-<div align="center">
-  <!-- Tarjeta Clásica de Estadísticas Generales -->
-  <img src="https://vercel.app" height="200" alt="Estadísticas de GitHub" />
-  
-  <!-- Tarjeta Clásica de Lenguajes Más Usados (Con barras, porcentajes e iconos) -->
-  <img src="https://vercel.app" height="200" alt="Lenguajes más usados" />
-</div>
 
 
 
