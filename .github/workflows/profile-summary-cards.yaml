@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *" # Se ejecuta automáticamente todas las noches
   workflow_dispatch: # Activa el botón para ejecutarlo manualmente cuando quieras
 
+# ESTO ES LO QUE FALTA: Permite al script guardar archivos en tu repositorio
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,11 +30,9 @@ jobs:
           path: languages.svg
 
       # 3. Guardar físicamente las imágenes generadas dentro de tu repositorio principal
-      - name: Commit & Push cambios
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add stats.svg languages.svg
-          git commit -m "Update local profile statistics SVGs" || exit 0
-          git push origin main
+      - name: Commit & Push cambios de forma segura
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update local profile statistics SVGs"
+          file_pattern: 'stats.svg languages.svg'
 
