@@ -233,10 +233,10 @@
 
 <div align="center">
   <!-- Tarjeta de Estadísticas Generales -->
-  <img src="./stats.svg" alt="Estadísticas de GitHub" width="450" />
+  <img src="https://githubusercontent.com" alt="Estadísticas de GitHub" width="450" />
   
-  <!-- Tarjeta de Lenguajes (La que tenías antes, pero local) -->
-  <img src="./languages.svg" alt="Lenguajes más usados" width="450" />
+  <!-- Tarjeta de Lenguajes más usados -->
+  <img src="https://githubusercontent.com" alt="Lenguajes más usados" width="450" />
 </div>
 
 
