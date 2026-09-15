@@ -33,3 +33,4 @@ jobs:
           git add stats.svg languages.svg
           git commit -m "Update local profile statistics SVGs" || exit 0
           git push origin main
+
