@@ -230,13 +230,12 @@
 
 ###
 
-
 <div align="center">
-  <!-- Tarjeta de Estadísticas Generales en PNG -->
-  <img src="./stats.png" alt="Estadísticas de GitHub" width="450" />
+  <!-- Tarjeta Clásica de Estadísticas Generales -->
+  <img src="https://vercel.app" height="200" alt="Estadísticas de GitHub" />
   
-  <!-- Tarjeta de Lenguajes más usados en PNG -->
-  <img src="./languages.png" alt="Lenguajes más usados" width="450" />
+  <!-- Tarjeta Clásica de Lenguajes Más Usados (Con barras, porcentajes e iconos) -->
+  <img src="https://vercel.app" height="200" alt="Lenguajes más usados" />
 </div>
 
 
