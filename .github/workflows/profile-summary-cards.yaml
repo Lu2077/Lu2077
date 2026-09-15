@@ -2,37 +2,35 @@ name: Generator Stats Profile 2D
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta automáticamente todas las noches
-  workflow_dispatch: # Activa el botón para ejecutarlo manualmente cuando quieras
+    - cron: "0 0 * * *" # Corre automáticamente todas las noches
+  workflow_dispatch: # Te permite ejecutarlo manualmente con un botón
 
-# ESTO ES LO QUE FALTA: Permite al script guardar archivos en tu repositorio
 permissions:
   contents: write
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      # 1. Generar la tarjeta de Estadísticas Generales en formato SVG
-      - uses: marcalexiei/github-readme-stats-action@v2.0.1
+      - name: Generar Estadísticas de Perfil
+        uses: lowlighter/metrics@latest
         with:
-          card: stats
-          options: 'username=Lu2077&show_icons=true&include_all_commits=true&count_private=true&theme=dracula'
-          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: stats.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Santiago # Ajustado a tu zona horaria
+          theme: dracula
 
-      # 2. Generar la tarjeta de Lenguajes más usados en formato SVG
-      - uses: marcalexiei/github-readme-stats-action@v2.0.1
+      - name: Generar Lenguajes más Usados
+        uses: lowlighter/metrics@latest
         with:
-          card: top-langs
-          options: 'username=Lu2077&layout=compact&langs_count=7&theme=dracula'
-          path: languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 7
+          config_timezone: America/Santiago
+          theme: dracula
 
-      # 3. Guardar físicamente las imágenes generadas dentro de tu repositorio principal
-      - name: Commit & Push cambios de forma segura
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update local profile statistics SVGs"
-          file_pattern: 'stats.svg languages.svg'
 
