@@ -232,11 +232,11 @@
 
 
 <div align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
-  <img src="https://githubusercontent.com/Lu2077/Lu2077/main/stats.svg" alt="Estadísticas de GitHub" width="450" />
+  <!-- Tarjeta de Estadísticas Generales (Corregida con 'raw') -->
+  <img src="https://raw.githubusercontent.com/Lu2077/Lu2077/main/stats.svg" alt="Estadísticas de GitHub" width="450" />
   
-  <!-- Tarjeta de Lenguajes más usados -->
-  <img src="https://githubusercontent.com/Lu2077/Lu2077/main/stats.svg" alt="Lenguajes más usados" width="450" />
+  <!-- Tarjeta de Lenguajes más usados (Corregida con 'raw' y apuntando a languages.svg) -->
+  <img src="https://githubusercontent.com" alt="Lenguajes más usados" width="450" />
 </div>
 
 
