@@ -232,8 +232,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lu2077&layout=compact&theme=algolia&bg_color=1e1e24&title_color=58a6ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=false&&card_width=450" />
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="./stats.svg" alt="Estadísticas de GitHub" width="450" />
+  
+  <!-- Tarjeta de Lenguajes (La que tenías antes, pero local) -->
+  <img src="./languages.svg" alt="Lenguajes más usados" width="450" />
 </div>
+
 
 ###
 
