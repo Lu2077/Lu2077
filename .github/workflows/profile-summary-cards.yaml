@@ -26,11 +26,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: languages.svg
-          base: ""
+          base: header                       # CAMBIO: Activamos el encabezado mínimo obligatorio
           plugin_languages: yes
+          plugin_languages_sections: most-used # CAMBIO: Fuerza a renderizar el gráfico de barras de lenguajes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 7
           config_timezone: America/Santiago
           theme: dracula
+
 
 
