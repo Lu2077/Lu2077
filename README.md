@@ -232,12 +232,13 @@
 
 
 <div align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
-  <img src="./stats.svg" alt="Estadísticas de GitHub" width="450" />
+  <!-- Tarjeta de Estadísticas Generales en PNG -->
+  <img src="./stats.png" alt="Estadísticas de GitHub" width="450" />
   
-  <!-- Tarjeta de Lenguajes más usados -->
-  <img src="./languages.svg" alt="Lenguajes más usados" width="450" />
+  <!-- Tarjeta de Lenguajes más usados en PNG -->
+  <img src="./languages.png" alt="Lenguajes más usados" width="450" />
 </div>
+
 
 
 ###
